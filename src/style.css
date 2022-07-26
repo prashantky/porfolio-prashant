@@ -341,7 +341,7 @@ button:focus {
 .home-about-social {
   text-align: center !important;
   padding-top: 25px;
-  color: white !important;
+  /* color: white !important; */
 }
 
 .home-about-social-links {

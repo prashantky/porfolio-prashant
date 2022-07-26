@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Prashant Singh </span>
             from <span className="purple"> Bhadohi, India.</span>
-            <br />I am a front-end developer with over 2.8 years having knowledge of front-end technologies Reactjs, HTML, CSS,Javascript and posses good command over Node.js and express.js
+            <br />I am a front-end developer with over 3 years having knowledge of front-end technologies Reactjs, HTML, CSS,Javascript and posses good command over Node.js and express.js
             .
             <br />
             <br />

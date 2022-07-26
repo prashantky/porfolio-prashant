@@ -3,11 +3,11 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import emotion from "../../Assets/Projects/school.jpg";
+import editor from "../../Assets/Projects/redhat.png";
+import chatify from "../../Assets/Projects/airasia.jpg";
+import suicide from "../../Assets/Projects/amzon.png";
+import bitsOfCode from "../../Assets/Projects/tataneu.jpg";
 
 function Projects() {
   return (
@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="AirAsia"
-              description="Flight booking sites where customer can book flight seats in advance without any trouble. Build this site with Reactjs,Redux,HTML5,CSS3,Bootstrap,Javascript etc ."
+              description="AirAsia india is a airline in india.We developed sites where customer can book flight seats in advance without any trouble.Developed this site with  web technologies like Reactjs,Redux,HTML,CSS,Bootstrap,Javascript etc."
               demoLink="https://www.airasia.co.in/home"
             />
           </Col>
@@ -46,7 +46,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Red Hat MarketPlace"
-              description="This is e-commerce website where customer can buy software and  get support to use that software.I worked as full stack developer ,for backend use Nodejs,Expressjs,Koa,and Mongodb and for front-end use Reactjs,Typescript,carbon-react-component,and Redux"
+              description="Red Hat Marketplace is a single source to find, try, buy, deploy, and manage enterprise applications across an organization's hybrid IT infrastructure.
+              I worked as full stack developer,for backend use Nodejs,Expressjs,Koa,and Mongodb and for front-end use React.js,Typescript,carbon-react-component,and Redux"
               demoLink="https://marketplace.redhat.com/en-us"              
             />
           </Col>
@@ -56,7 +57,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Comfy"
-              description="It is e-commerce site where customer can by product and search their product from search bar.Build with help of Reactjs,Material Ui"
+              description="It is e-commerce site where customer can by product and search their product from search bar.Build with help of Reactjs,CSS,Redux."
               ghLink="https://github.com/prashantky/comfy"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
@@ -67,7 +68,7 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Amazon Clone"
-              description="Used Reactjs and Firbase for authentication to clone amazon."
+              description="Build a e-commerce web site where customer directly buy products.Build with the help of technologies like React.js,CSS,HTML,Redux,Bootstrap."
               ghLink="https://github.com/prashantky/amazon_clone"
             />
           </Col>
@@ -77,7 +78,7 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="ADS School"
-              description="It is school site where we keep record of each student and teacher.We can also send notification to student and teacher and student can download admission form also.Build with Reactjs,Tailwind CSS,Redux."
+              description="It is school site where we keep record of each student and teachers.We can also send notification to students.Build with Reactjs,Tailwind CSS,Redux."
               ghLink="https://github.com/RahulUD/ADS-Pwa"
             />
           </Col>

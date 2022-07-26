@@ -24,18 +24,20 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="#ff0000" style={{fontFamily:"sans-serif", fontWeight:"300px"}}> C++, Javascript and Python. </b>
+                <b className="#ff0000" style={{fontFamily:"sans-serif", fontWeight:"300px"}}> Javascript,React.js,Node.js and Express.js. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I'am meticulous web developer with over 3 years having insightful knowledge of front-end technologies like;
               <i>
-                <b className="purple" style={{fontFamily:"sans-serif", fontWeight:"300px"}}>Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple" style={{fontFamily:"sans-serif", fontWeight:"300px"}}>React.js, HTML, CSS, Javascript,Typescript </b> 
+                and posses good command over {" "}
                 <b className="purple" style={{fontFamily:"sans-serif", fontWeight:"300px"}}>
-                  Deep Learning and Natural Launguage Processing.
+                 Node.js and Express.js.{""} 
                 </b>
               </i>
+               A curious and tech-shabby guy who is always up to take on new challenges.
+
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
