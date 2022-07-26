@@ -48,7 +48,6 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="/" className="d-flex">
           Front-End Developer
-          {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -103,7 +102,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumya-jit.tech/"
+                href="https://github.com/prashantky"
                 target="_blank"
                 rel="noreferrer"
               >

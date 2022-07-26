@@ -36,7 +36,7 @@ function Home2() {
                  Node.js and Express.js.{""} 
                 </b>
               </i>
-               A curious and tech-shabby guy who is always up to take on new challenges.
+               A curious and tech-savvy guy who is always up to take on new challenges.
 
               <br />
               <br />
