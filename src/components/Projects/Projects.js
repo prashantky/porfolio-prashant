@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="AirAsia"
-              description="AirAsia india is a airline in india. We developed sites where customer can book flight seats in advance without any trouble. Developed this site with webt echnologies like Reactjs, Redux, HTML, CSS, Bootstrap, Javascript."
+              description="AirAsia india is a airline in india. We developed sites where customer can book flight seats in advance without any trouble. Developed this site with web technologies like Reactjs, Redux, HTML, CSS, Bootstrap, Javascript."
               demoLink="https://www.airasia.co.in/home"
             />
           </Col>
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Red Hat MarketPlace"
               description="Red Hat Marketplace is a single source to find, try, buy, deploy, and manage enterprise applications across an organization's hybrid IT infrastructure.
-              I worked as full stack developer, for backend use Node.js, Express.js, Koa, and Mongodb and for front-end use React.js,Typescript,  Redux and  carbon-react-component. "
+              I worked as full stack developer, for backend use Node.js, Express.js, Koa, and Mongodb. For front-end used React.js, Typescript,  Redux and  carbon-react-component. "
               demoLink="https://marketplace.redhat.com/en-us"
             />
           </Col>
